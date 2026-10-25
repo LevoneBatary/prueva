@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Voxel — Estudio y Visor de Diseño 3D",
+  "description": "Plataforma interactiva de visualización de diseños industriales y arquitectónicos en 3D con materiales PBR de estudio, vista explotada e inspección de componentes en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
